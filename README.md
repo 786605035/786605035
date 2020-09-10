@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-<!--
+我叫赵柄庄，一位动漫及计算机爱好者
+希望在大学中可以交到志同道合的朋友
 **786605035/786605035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
